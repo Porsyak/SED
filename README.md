@@ -117,4 +117,4 @@ os: win32 x64
 
 ### Ссылки
 1. [Node.js 7.5.0](https://nodejs.org/en/download/releases/)
-2. [PostgreSQL](https://https://postgrespro.ru/docs/postgresql)
+2. [PostgreSQL](https://postgrespro.ru/docs/postgresql)
